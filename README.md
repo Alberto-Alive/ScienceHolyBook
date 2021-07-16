@@ -1,6 +1,7 @@
 # Bookdown tutorial all you need: 
 1) https://www.youtube.com/watch?v=m5D-yoH416Y&list=LL&index=4 
 2) https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
+3) https://github.com/rstudio/bookdown
 
 
 
