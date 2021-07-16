@@ -1,3 +1,10 @@
+# Bookdown tutorial all you need: 
+1) https://www.youtube.com/watch?v=m5D-yoH416Y&list=LL&index=4 
+2) https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
+
+
+
+
 This is a template for creating an [HTML GitBook style](https://bookdown.org/yihui/bookdown/html.html#gitbook-style) **[bookdown](https://github.com/rstudio/bookdown)** book, [hosted on GitHub Pages](https://bookdown.org/yihui/bookdown/github.html). It is based on the one created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. It assumes you know how to use git/GitHub and R Markdown, and have some familiarity with the **bookdown** package. If you don't, the package author Yihue Xie's RStudio webinar *[Introduction to Bookdown (R Package)](https://www.youtube.com/watch?v=dVqVscgwSpw)* provides an excellent introduction. In addition, check out [*bookdown: Authoring Books and Technical Documents with R Markdown*](https://bookdown.org/yihui/bookdown), also by Yihui Xie, both for the content and the format--it is itself a **bookdown** book.
 
 
