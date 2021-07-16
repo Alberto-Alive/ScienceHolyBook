@@ -1,9 +1,20 @@
 --- 
 title: "The Holy Science Book"
-author: "Alberto"
+author: "Alberto Paul Popescu"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Most valued information is the faith
 
+The most preserved books were those of faith. Science, the only pillar of our world was scattered throughout the history in wars, as a result the human ignorance.Nowadays, we insult science on thousands of blogs, thousands of wiki pages and thousands of research articles. Science at the lowest level is information and like any information it takes many forms and shapes but it needs ways to travel so to exist and excel.
+
+Enough with blabla:
+
+I propose a software developed on blockchain that will be split on three levels.
+Level 1: Describes an universal book in STEM subjects. There will be one book for each STEM subject.The information displayed in the book will contain from everything from basic to advanced subjects.Every subject in the book will have thousands of versions of different wordings based on knowledge retrieved from preexisting sources.Users can favorite their preferred version they understand the best.An ML algorithm will prioritise those paragraphs that have fewer words and most favourites. 
+Level 2: Describes research subjects in STEM. Each subject will follow the same format as level 1. This means that researchers that want to research a subject can only focus on adding their methods, results and discussions withouth the worry for the rest of the information like introduction or references since the content is in one place.
+Level 3: 
+
+# Level 1
+Hypothesis need to reach the level 2. 
